@@ -1,8 +1,7 @@
-# Save gcode from Inkscape
+# Plotter A1
 
-This plugin is based on [this abandoned plugin](https://github.com/martymcguire/inkscape-unicorn) and extracted from the inkscape version provided by [sovovol3d](https://www.sovol3d.com).
-
-You can find the original download link [here](https://www.sovol3d.com/pages/so-1-document-download).
+Axidraw A3
+Sovol SO-1
 
 ## GNU/Linux install
 
@@ -11,7 +10,3 @@ To install this plugin on GNU/Linux, download this repository, extract it somewh
 ```console
 cp -Rf * ~/.config/inkscape/extensions/
 ```
-
-## Windows install
-
-You download inkscape with this plugin embedded [here](https://www.sovol3d.com/pages/so-1-document-download).
